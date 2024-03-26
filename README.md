@@ -7,7 +7,11 @@ Project Overview:
 This data-driven journey explores the intricacies of the Swiggy Food Delivery Overview, User Performance, and City Performance.
 
 
-https://github.com/shruthi2023/Swiggy_Dashboard/assets/126853880/a9b47a58-cacc-4e26-8824-9b5cc79decc2
+
+https://github.com/shruthi2023/Swiggy_Dashboard/assets/126853880/b317f45c-bcfe-4b84-89f8-aa3e0c6dce15
+
+
+
 
 
 
